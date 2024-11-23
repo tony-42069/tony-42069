@@ -1,5 +1,5 @@
 👋 **Hi, I’m Dorian**  
-What started as a casual experiment has grown into a mission: to create tools that make **AI, finance**, and **commercial real estate (CRE)** more accessible and transformative for **CRE professionals** and **investors alike**. 
+What started as a casual experiment with a simple To-do app, has grown into a mission: to create tools that make **AI, finance**, and **commercial real estate (CRE)** more accessible and transformative for **CRE professionals** and **investors alike**. 
 
 ### **What Drives Me**  
 - **Turning Ideas into Impact:** I believe great tools are born at the intersection of simplicity and power. My goal? To build solutions so intuitive, they feel like second nature.  
