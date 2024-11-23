@@ -1,9 +1,20 @@
-# 👋 Hi, I’m Dorian  
+👋 **Hi, I’m Dorian**  
+What started as a casual experiment has grown into a mission: to create tools that make **AI, finance**, and **commercial real estate (CRE)** more accessible and transformative for **CRE professionals** and **investors alike**. 
 
-Welcome to the most *unexpectedly serious* GitHub profile on the planet.  
+### **What Drives Me**  
+- **Turning Ideas into Impact:** I believe great tools are born at the intersection of simplicity and power. My goal? To build solutions so intuitive, they feel like second nature.  
+- **Empowering Industries:** From CRE analysis to business acquisition tools, I’m reimagining how professionals leverage technology to make smarter decisions.  
+- **Learning by Doing:** With no formal coding background, every project represents not just a deliverable, but a milestone in my journey of relentless self-education.  
 
-- 👀 **I’m interested in**: Turning AI, finance, and commercial real estate (CRE) tools into magic wands for businesses.  
-- 🌱 **I’m currently learning**: How to make software so intuitive that even *Tony-42069* would say, "Wow, that’s usable."  
-- 💞️ **I’m looking to collaborate on**: Projects where tech meets finance, CRE analysis, or just cool stuff that pushes boundaries.  
-- 📫 **How to reach me**: [X](https://x.com/CREdebtDorian) or send a carrier pigeon with good vibes.  
-- ⚡ **Fun fact**: When I’m not building software, I’m trying to master golf—because coding is easier than fixing my swing.  
+### **What I’m Working On**  
+📊 **CRE Tools**: From deal analyzers to AI-powered insights, I’m creating software that redefines how investors and brokers approach real estate.  
+🤖 **AI Experiments**: Exploring how machine learning can simplify everything from underwriting to sales automation.  
+📈 **Scaling Solutions**: Whether it’s optimizing workflows or reducing costs, I’m focused on building tools that deliver ROI without the enterprise price tag.  
+
+### **Fun Facts About Me**  
+- **Golf is my therapy** (even if my swing disagrees).  
+- I thrive at the crossroads of ambitious ideas and practical execution.  
+- Building things from scratch beats fixing things any day—except my golf game.  
+
+### **Let’s Connect**  
+I’m always up for collaborating on innovative projects or swapping ideas. Feel free to DM me on **X (@CREdebtDorian)** or check out my latest experiments.  
