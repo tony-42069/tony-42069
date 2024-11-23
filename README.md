@@ -15,6 +15,3 @@ What started as a casual experiment has grown into a mission: to create tools th
 - **Golf is my therapy** (even if my handicap disagrees).  
 - I thrive at the crossroads of ambitious ideas and practical execution.  
 - Building things from scratch beats fixing things any day—except my golf game.  
-
-### **Let’s Connect**  
-I’m always up for collaborating on innovative projects or swapping ideas. Feel free to DM me on **X (@CREdebtDorian)** or check out my latest experiments.  
