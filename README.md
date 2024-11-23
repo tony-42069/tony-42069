@@ -12,7 +12,7 @@ What started as a casual experiment has grown into a mission: to create tools th
 📈 **Scaling Solutions**: Whether it’s optimizing workflows or reducing costs, I’m focused on building tools that deliver ROI without the enterprise price tag.  
 
 ### **Fun Facts About Me**  
-- **Golf is my therapy** (even if my swing disagrees).  
+- **Golf is my therapy** (even if my handicap disagrees).  
 - I thrive at the crossroads of ambitious ideas and practical execution.  
 - Building things from scratch beats fixing things any day—except my golf game.  
 
